@@ -1,0 +1,18 @@
+IP_Addresses = {}
+
+Servers = {"twitter.com","instagram.com","twitch.tv","facebook.com",
+           "amazon.com","netflix.com","wikipedia.org","umbc.edu","discord.gg" }
+
+Connections = {}
+
+
+
+
+def the_internet():
+
+
+    def create_server(name,address):
+
+        address = IP_Addresses
+
+        create-server = name + address
